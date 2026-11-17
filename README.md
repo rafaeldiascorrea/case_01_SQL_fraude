@@ -29,28 +29,27 @@ A análise combina três perspectivas:
 
 ### 1. Panorama do problema
 
-![Gráfico 01 — Panorama do tamanho do problema](..main/assets/01%20-%20Querie%20-%2001.png)
-![Panorama do tamanho do problema](../assets/01%20-%20Querie%20-%2001.png)
+![Gráfico 01 — Panorama do tamanho do problema](/assets/01%20-%20Querie%20-%2001.png)
 
 ### 2. Fraude por país
 
-![Gráfico 02 — Fraude por país](../assets/02%20-%20Querie%20-%2002.png)
+![Gráfico 02 — Fraude por país](/assets/02%20-%20Querie%20-%2002.png)
 
 ### 3. Risco cadastrado versus realidade
 
-![Gráfico 03 — Risco cadastrado versus fraude observada](../assets/03%20-%20Querie%20-%2003.png)
+![Gráfico 03 — Risco cadastrado versus fraude observada](/assets/03%20-%20Querie%20-%2003.png)
 
 ### 4.1. Fraude por faixa de valor
 
-![Gráfico 04-01 — Fraude por faixa de valor](../assets/04%20-%20Querie%20-%2004-01.png)
+![Gráfico 04-01 — Fraude por faixa de valor](/assets/04%20-%20Querie%20-%2004-01.png)
 
 ### 4.2. Casos e valor exposto por faixa
 
-![Gráfico 04-02 — Taxa de fraude e concentração financeira](../assets/04%20-%20Querie%20-%2004-02.png)
+![Gráfico 04-02 — Taxa de fraude e concentração financeira](/assets/04%20-%20Querie%20-%2004-02.png)
 
 ### 5. Score do modelo por decil
 
-![Gráfico 05 — Taxa de fraude por decil do score](../assets/05%20-%20Querie%20-%2005.png)
+![Gráfico 05 — Taxa de fraude por decil do score](/assets/05%20-%20Querie%20-%2005.png)
 
 ---
 

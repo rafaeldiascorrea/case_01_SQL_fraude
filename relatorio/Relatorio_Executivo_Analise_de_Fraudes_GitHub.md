@@ -96,7 +96,7 @@ O ticket médio fraudulento supera o ticket geral em R$ 29,45. Assim, reduzir ap
 
 ## 4. Geografia do risco
 
-![Fraude por país](../assets/02%20-%20Querie%2002.png)
+![Fraude por país](../assets/02%20-%20Querie%20-%2002.png)
 
 | País | Transações | Fraudes | Taxa de fraude |
 |---|---:|---:|---:|

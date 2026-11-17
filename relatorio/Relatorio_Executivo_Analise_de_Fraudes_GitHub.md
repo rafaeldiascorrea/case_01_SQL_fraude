@@ -120,7 +120,7 @@ O piso de volume deve ser mantido. Países com poucas observações podem aprese
 
 ## 5. Risco cadastrado versus fraude observada
 
-![Risco cadastrado versus realidade](../assets/03%20-%20Querie%2003.png)
+![Risco cadastrado versus realidade](../assets/03%20-%20Querie%20-%2003.png)
 
 | Nível cadastrado | Transações | Taxa observada |
 |---|---:|---:|

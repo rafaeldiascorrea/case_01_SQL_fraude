@@ -144,7 +144,7 @@ Essa etiqueta apresenta baixo poder de discriminação e não deve ser usada iso
 
 ## 6. Fraude por faixa de valor
 
-![Fraude por faixa de valor](../assets/04%20-%20Querie%2004-01.png)
+![Fraude por faixa de valor](../assets/04%20-%20Querie%20-%2004-01.png)
 
 | Faixa | Transações | Taxa de fraude | Participação no volume |
 |---|---:|---:|---:|
@@ -164,7 +164,7 @@ O valor da transação é, portanto, uma variável operacionalmente interpretáv
 
 ## 7. Casos versus concentração financeira
 
-![Taxa de fraude e concentração financeira](../assets/04%20-%20Querie%2004-02.png)
+![Taxa de fraude e concentração financeira](../assets/04%20-%20Querie%20-%2004-02.png)
 
 | Faixa | Casos de fraude | % dos casos | Valor exposto | % do valor | Perda média |
 |---|---:|---:|---:|---:|---:|
@@ -184,7 +184,7 @@ A maior quantidade de casos está nas transações menores, mas a maior parcela 
 
 ## 8. Efetividade do score
 
-![Score por decil](../assets/05%20-%20Querie%2005.png)
+![Score por decil](../assets/05%20-%20Querie%20-%2005.png)
 
 O decil 10 apresenta taxa de **21,33%**, contra 2,81% no decil 1. O último decil concentra **42,7% das fraudes em 10% das transações**. Os decis 9 e 10, juntos, concentram aproximadamente 60% dos casos.
 

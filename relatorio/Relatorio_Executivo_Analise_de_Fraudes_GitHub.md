@@ -70,7 +70,7 @@ Os três CSVs anexados têm o mesmo tamanho e o mesmo conteúdo binário. Portan
 
 ## 3. Panorama e materialidade financeira
 
-![Panorama do tamanho do problema]([../assets/01%20-%20Querie%2001.png](https://github.com/rafaeldiascorrea/case_01_SQL_fraude/blob/main/assets/01%20-%20Querie%20-%2001.png))
+![Panorama do tamanho do problema](../assets/01%20-%20Querie%20-%2001.png)
 
 | Indicador | Resultado |
 |---|---:|

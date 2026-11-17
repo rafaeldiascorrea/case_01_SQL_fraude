@@ -1,1 +1,0 @@
-# case_01_SQL_fraude

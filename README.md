@@ -30,6 +30,7 @@ A análise combina três perspectivas:
 ### 1. Panorama do problema
 
 ![Gráfico 01 — Panorama do tamanho do problema](..main/assets/01%20-%20Querie%20-%2001.png)
+![Panorama do tamanho do problema](../assets/01%20-%20Querie%20-%2001.png)
 
 ### 2. Fraude por país
 
